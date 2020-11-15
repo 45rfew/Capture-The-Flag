@@ -1,5 +1,3 @@
 # Firetruck
 * All codes for Firetruck
 * Join our discord server -> https://discord.gg/FdmpusW
-## Credits
-* **Coding:** Money & Bhpsngum
